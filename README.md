@@ -15,9 +15,6 @@
 -  Linguagens de Programação: 
 
     [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=pandas,numpy)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
